@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-A cloud engineer at PHTG posted a photo on LinkedIn showing their workstation with the Azure portal open. The photo inadvertently exposed the hostname and public IP address of a production VM (`azwks-phtg-02`). Within two days, threat actors identified the exposure, conducted automated RDP scanning, brute-forced credentials, established persistent access, disabled Microsoft Defender, and deployed a Meterpreter reverse shell — masquerading as a legitimate internal health monitoring service.
+A cloud engineer at PHTG posted a photo on LinkedIn showing their workstation with the Azure portal open. The photo inadvertently exposed the hostname and public IP address of a production VM (`azwks-phtg-02`). Within two days, threat actors identified the exposure, conducted automated RDP scanning, brute-forced credentials, established persistent access, disabled Microsoft Defender, and deployed a Meterpreter reverse shell, masquerading as a legitimate internal health monitoring service.
 
 **The attack was never alerted. The hunt was hypothesis-driven from OSINT alone.**
 
