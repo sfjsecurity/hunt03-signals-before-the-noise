@@ -1,4 +1,4 @@
-# 🐺 HUNT 03 — Signals Before the Noise
+# 🐺 HUNT 03 - Signals Before the Noise
 ### Threat Hunt Report · MITRE ATT&CK Mapping · PHTG External RDP Compromise
 
 > **Status:** Complete · **Difficulty:** Intermediate · **Flags:** 38/38  
